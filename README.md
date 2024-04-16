@@ -2,7 +2,8 @@
 # OVERVIEW
 Netflix is a global streaming service offering a wide variety of TV shows, movies, documentaries, and more on thousands of internet-connected devices. With a vast library of content available for streaming, Netflix subscribers can enjoy entertainment tailored to their preferences anytime, anywhere. The platform's original productions, including TV series, films, and documentaries, have garnered critical acclaim and popular success, further solidifying Netflix's position as a leader in the streaming industry. 
 
-![nnn](https://github.com/Lathishkumar20/Netflix_DashBoard/assets/142078468/70eb8eeb-3d11-419c-907c-11f7f5c2f402)
+![image](https://github.com/Lathishkumar20/Netflix_DashBoard/assets/142078468/1e90e804-d6c7-496f-922c-ad872889b163)
+
 
 # TOOLS USED
 TABLEAU 
