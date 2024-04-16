@@ -2,7 +2,8 @@
 # OVERVIEW
 Netflix is a global streaming service offering a wide variety of TV shows, movies, documentaries, and more on thousands of internet-connected devices. With a vast library of content available for streaming, Netflix subscribers can enjoy entertainment tailored to their preferences anytime, anywhere. The platform's original productions, including TV series, films, and documentaries, have garnered critical acclaim and popular success, further solidifying Netflix's position as a leader in the streaming industry. 
 
-![image](https://github.com/Lathishkumar20/Netflix_DashBoard/assets/142078468/1e90e804-d6c7-496f-922c-ad872889b163)
+![image](https://github.com/Lathishkumar20/Netflix_DashBoard/assets/142078468/a26dc0d7-df8b-48e2-9c1e-359fe8823b03)
+
 
 
 # TOOLS USED
@@ -19,7 +20,8 @@ Dashboard Creation: Tableau allows building interactive dashboards providing com
 # KEY FINDING
 
 Total Movies and Tv Shows by Years
-![image](https://github.com/Lathishkumar20/Netflix_DashBoard/assets/142078468/244e972e-7331-4999-9e92-ac869d57ee3f)
+
+![image](https://github.com/Lathishkumar20/Netflix_DashBoard/assets/142078468/0e83d8a1-c636-4725-8ad5-ba54d040e1be)
 
 
 Popular Genres: Identify trending genres for content acquisition and production prioritization.
@@ -43,6 +45,7 @@ Cost Optimization: Efficient resource allocation and process improvements drive 
 Market Expansion: Data insights identify new opportunities and market trends, enabling targeted expansion strategies.
 
 Risk Mitigation: Proactive identification of risks and predictive analytics support risk management and mitigation strategies.
+
 
 # CONCLUSION
 The Netflix dashboard provides comprehensive insights into viewer preferences, content performance, and market trends. Leveraging data-driven insights, Netflix can optimize content recommendations, improve user engagement, and stay ahead in the competitive streaming landscape. Overall, the Netflix dashboard serves as a powerful tool for monitoring performance, identifying opportunities, and shaping the future direction of the platform.
